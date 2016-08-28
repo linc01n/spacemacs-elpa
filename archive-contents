@@ -289,6 +289,7 @@
  (twilight-anti-bright-theme . [(20160622 148) nil "A soothing Emacs 24 lightdark theme" single])
  (twilight-bright-theme . [(20130605 143) nil "A Emacs 24 faces port of the TextMate theme" single])
  (twilight-theme . [(20120412 603) nil "Twilight theme for GNU Emacs 24 (deftheme)" single])
+ (uimage . [(20160716 130) nil "An iimage like mode with the ability to display url images" single])
  (ujelly-theme . [(20160722 1850) nil "Ujelly theme for GNU Emacs 24 (deftheme)" single])
  (underwater-theme . [(20131117 1602) nil "A gentle, deep blue color theme" single])
  (undo-tree . [(20140509 522) nil "Treat undo history as a tree" single])
